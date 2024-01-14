@@ -5,11 +5,6 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "browser": "dist.browser/index.js",
-  "files": [
-    "src",
-    "dist",
-    "dist.browser"
-  ],
   "homepage": "https://github.com/ethereumjs/ethereumjs-wallet",
   "dependencies": {
     "@ethereumjs/util": "^8.0.0",
