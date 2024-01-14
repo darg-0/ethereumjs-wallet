@@ -39,6 +39,3 @@ node_modules
 .idea
 .vscode
 
-# build output
-dist
-dist.browser
